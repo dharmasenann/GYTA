@@ -11,6 +11,8 @@ moviepy==1.0.3
 # For Pexels API
 requests
 
+protobuf<5,>=3.20.0
+
 # For image processing (e.g., slides, thumbnails)
 Pillow==9.5.0
 

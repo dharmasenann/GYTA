@@ -6,12 +6,13 @@ google-auth-oauthlib
 
 # Text-to-Speech and Video Editing
 gTTS
-moviepy==1.0.3
+moviepy
 
 # For Pexels API
 requests
 
-streamlit>=1.41.0
+streamlit
+grpcio-status
 
 # For image processing (e.g., slides, thumbnails)
 Pillow==9.5.0

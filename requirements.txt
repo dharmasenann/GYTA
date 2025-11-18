@@ -15,7 +15,7 @@ streamlit
 grpcio-status
 
 # For image processing (e.g., slides, thumbnails)
-Pillow==9.5.0
+Pillow
 
 # ✅ For MP3 to WAV conversion
 pydub

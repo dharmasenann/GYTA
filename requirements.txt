@@ -6,7 +6,8 @@ google-auth-oauthlib
 
 # Text-to-Speech and Video Editing
 gTTS
-moviepy
+
+moviepy>=2.0.0
 
 # For Pexels API
 requests
@@ -15,7 +16,7 @@ streamlit
 grpcio-status
 
 # For image processing (e.g., slides, thumbnails)
-Pillow
+Pillow>=10.0.0
 
 # ✅ For MP3 to WAV conversion
 pydub
